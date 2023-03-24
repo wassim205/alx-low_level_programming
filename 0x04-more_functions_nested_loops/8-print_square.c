@@ -2,7 +2,7 @@
 
 /**
  * print_square - Prints n squars according n number of times
- *@n: The number of square/number of times
+ *@size: The number of square/number of times
  *Return: empty
  */
 void print_square(int size)
@@ -20,8 +20,8 @@ void print_square(int size)
 	for (y = 0; y < size; y++)
 	{
 		_putchar(35);
-        }
-        _putchar('\n');
+	}
+	_putchar('\n');
 	}
 	}
 }
