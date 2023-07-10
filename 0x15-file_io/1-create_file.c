@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * creatingfile - the function creating a file.
+ * create_file - the function creating a file.
  * @filename: A pointer to the name of the file to will create.
  * @text_content: A pointer to a string to writing to the file.
  *
